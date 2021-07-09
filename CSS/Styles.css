@@ -17,6 +17,7 @@ header {
     box-shadow: 0 -2px 10px 0 rgb(0 0 0 / 15%);
 }
 
+ /*-Navigation bar-*/
 /* logo dimensions */
 .logo-docplanner {
     width: 268px;
@@ -114,7 +115,7 @@ header {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
+/*--------------------------------------------------------------*/
 /*Main*/
 /*Presention of Docplanner Group*/
 .presentation {
